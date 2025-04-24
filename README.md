@@ -1,4 +1,3 @@
-# AST-DeepOnet
+# CF-DeepOnet
 The code of our reaserch paper 'CF-DeepOnet: Deep operator neural networks for solving compressible flows'.
-
-COMING SOON!
+Submitted to Aerospace science and technology.
