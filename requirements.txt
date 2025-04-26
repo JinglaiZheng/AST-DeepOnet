@@ -1,0 +1,13 @@
+deap==1.4.1
+joblib==1.2.0
+matplotlib==3.8.0
+mph==1.2.4
+numpy==1.23.5
+pandas==1.4.4
+pyDOE==0.3.8
+pyswarm==0.6
+scikit_learn==1.2.2
+scipy==1.11.4
+seaborn==0.13.2
+shap==0.46.0
+tensorflow==2.10.0
